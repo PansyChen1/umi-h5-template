@@ -3,6 +3,6 @@ import Redirect from 'umi/redirect'
 
 export default () => {
   return (
-    <div>content</div>
+    <div style={{fontSize: 30}}>content</div>
   )
 }
